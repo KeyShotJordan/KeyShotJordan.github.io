@@ -1,0 +1,30 @@
+{
+    "image": "KeyShotLogo.4460",
+    "model_sets": [
+        "Logo",
+        "3D Letters"
+    ],
+    "multi_materials": [
+        {
+            "base_material": "Text Backing",
+            "sub_material": "White"
+        },
+        {
+            "base_material": "Text ",
+            "sub_material": "Liquid"
+        },
+        {
+            "base_material": "Black",
+            "sub_material": "KS Damier"
+        },
+        {
+            "base_material": "Blue",
+            "sub_material": "Denim"
+        },
+        {
+            "base_material": "White",
+            "sub_material": "White Paint"
+        }
+    ],
+    "studio": "Hero 2"
+}
