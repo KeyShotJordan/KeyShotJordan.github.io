@@ -1,0 +1,28 @@
+{
+    "image": "KeyShotLogo.1834",
+    "model_sets": [
+        "Logo",
+        "2D Letters",
+        "Light",
+        "Logo"
+    ],
+    "multi_materials": [
+        {
+            "base_material": "Text ",
+            "sub_material": "White Toon"
+        },
+        {
+            "base_material": "Black",
+            "sub_material": "Classic"
+        },
+        {
+            "base_material": "Blue",
+            "sub_material": "Blue Leather"
+        },
+        {
+            "base_material": "White",
+            "sub_material": "Hydro Dip"
+        }
+    ],
+    "studio": "ISO"
+}
