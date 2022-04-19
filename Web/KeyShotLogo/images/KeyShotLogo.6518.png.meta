@@ -1,0 +1,31 @@
+{
+    "image": "KeyShotLogo.6518",
+    "model_sets": [
+        "Logo",
+        "3D Letters",
+        "Logo"
+    ],
+    "multi_materials": [
+        {
+            "base_material": "Text Backing",
+            "sub_material": "White"
+        },
+        {
+            "base_material": "Text ",
+            "sub_material": "Blue Leather"
+        },
+        {
+            "base_material": "Black",
+            "sub_material": "Concrete"
+        },
+        {
+            "base_material": "Blue",
+            "sub_material": "Classic"
+        },
+        {
+            "base_material": "White",
+            "sub_material": "Wireframe "
+        }
+    ],
+    "studio": "Hero"
+}
