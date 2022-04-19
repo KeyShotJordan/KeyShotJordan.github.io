@@ -1,0 +1,30 @@
+{
+    "image": "KeyShotLogo.4528",
+    "model_sets": [
+        "Logo",
+        "3D Letters"
+    ],
+    "multi_materials": [
+        {
+            "base_material": "Text Backing",
+            "sub_material": "Blue"
+        },
+        {
+            "base_material": "Text ",
+            "sub_material": "Wireframe"
+        },
+        {
+            "base_material": "Black",
+            "sub_material": "Hydro Dip"
+        },
+        {
+            "base_material": "Blue",
+            "sub_material": "Hydro Dip"
+        },
+        {
+            "base_material": "White",
+            "sub_material": "White Paint"
+        }
+    ],
+    "studio": "Hero 2"
+}
