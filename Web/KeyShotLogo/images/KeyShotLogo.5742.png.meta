@@ -1,0 +1,26 @@
+{
+    "image": "KeyShotLogo.5742",
+    "model_sets": [
+        "Logo",
+        "2D Letters"
+    ],
+    "multi_materials": [
+        {
+            "base_material": "Text ",
+            "sub_material": "KS Damier"
+        },
+        {
+            "base_material": "Black",
+            "sub_material": "Black Leather"
+        },
+        {
+            "base_material": "Blue",
+            "sub_material": "Hydro Dip"
+        },
+        {
+            "base_material": "White",
+            "sub_material": "Hydro Dip"
+        }
+    ],
+    "studio": "Hero 2"
+}
