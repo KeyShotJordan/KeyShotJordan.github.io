@@ -1,0 +1,31 @@
+{
+    "image": "KeyShotLogo.7009",
+    "model_sets": [
+        "Logo",
+        "3D Letters",
+        "Logo"
+    ],
+    "multi_materials": [
+        {
+            "base_material": "Text Backing",
+            "sub_material": "Blue"
+        },
+        {
+            "base_material": "Text ",
+            "sub_material": "Liquid"
+        },
+        {
+            "base_material": "Black",
+            "sub_material": "KS Damier"
+        },
+        {
+            "base_material": "Blue",
+            "sub_material": "Blue Leather"
+        },
+        {
+            "base_material": "White",
+            "sub_material": "Hydro Dip"
+        }
+    ],
+    "studio": "Hero"
+}
