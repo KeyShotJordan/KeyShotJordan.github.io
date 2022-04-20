@@ -1,0 +1,27 @@
+{
+    "image": "KeyShotLogo.7282",
+    "model_sets": [
+        "Logo",
+        "2D Letters",
+        "Logo"
+    ],
+    "multi_materials": [
+        {
+            "base_material": "Text ",
+            "sub_material": "White Toon"
+        },
+        {
+            "base_material": "Black",
+            "sub_material": "Hydro Dip"
+        },
+        {
+            "base_material": "Blue",
+            "sub_material": "Denim"
+        },
+        {
+            "base_material": "White",
+            "sub_material": "Bright White"
+        }
+    ],
+    "studio": "Hero"
+}
